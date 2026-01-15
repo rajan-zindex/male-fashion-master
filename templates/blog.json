@@ -12,9 +12,18 @@
     "main": {
       "type": "blog",
       "settings": {}
+    },
+    "blog_banner_iqpzDC": {
+      "type": "blog-banner",
+      "name": "Blog Banner Section",
+      "settings": {
+        "banner_image": "shopify://shop_images/breadcrumb-bg.jpg",
+        "title": "Our Blog"
+      }
     }
   },
   "order": [
+    "blog_banner_iqpzDC",
     "main"
   ]
 }
