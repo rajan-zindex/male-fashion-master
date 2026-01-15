@@ -1,0 +1,247 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {}
+    },
+    "breadcrumbs_YqGHqw": {
+      "type": "breadcrumbs",
+      "name": "Breadcrumbs",
+      "settings": {}
+    },
+    "about_us_Hd7HFh": {
+      "type": "about-us",
+      "blocks": {
+        "about_item_jneQKn": {
+          "type": "about_item",
+          "settings": {
+            "item_title": "Who We Are ?",
+            "item_description": "Contextual advertising programs sometimes have strict policies that need to be adhered too. Let’s take Google as an example."
+          }
+        },
+        "about_item_KVm6VV": {
+          "type": "about_item",
+          "settings": {
+            "item_title": "Who We Do ?",
+            "item_description": "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance."
+          }
+        },
+        "about_item_VJj449": {
+          "type": "about_item",
+          "settings": {
+            "item_title": "Why Choose Us",
+            "item_description": "A two or three storey house is the ideal way to maximise the piece of earth on which our home sits, but for older or infirm people."
+          }
+        }
+      },
+      "block_order": [
+        "about_item_jneQKn",
+        "about_item_KVm6VV",
+        "about_item_VJj449"
+      ],
+      "name": "About Us Section",
+      "settings": {
+        "about_image": "shopify://shop_images/about-us.jpg"
+      }
+    },
+    "testimonial_ywCx6n": {
+      "type": "testimonial",
+      "name": "Testimonial Section",
+      "settings": {
+        "testimonial_image": "shopify://shop_images/testimonial-pic.jpg",
+        "review": "<p><em>“Going out after work? Take your butane curling iron with you to the office, heat it up, style your hair before you leave the office and you won’t have to make a trip back home.”</em></p>",
+        "author_image": "shopify://shop_images/testimonial-author.jpg",
+        "reviewer_name": "Augusta Schultz",
+        "reviewer_designation": "Fashion Design"
+      }
+    },
+    "counter_cmR6jn": {
+      "type": "counter",
+      "blocks": {
+        "counter_details_EGATzt": {
+          "type": "counter_details",
+          "settings": {
+            "counter_number": "102",
+            "number_suffix": "",
+            "counter_title": "Our <br> Clients"
+          }
+        },
+        "counter_details_fT6QQi": {
+          "type": "counter_details",
+          "settings": {
+            "counter_number": "30",
+            "number_suffix": "",
+            "counter_title": "Total <br> Categories"
+          }
+        },
+        "counter_details_rWbMTE": {
+          "type": "counter_details",
+          "settings": {
+            "counter_number": "102",
+            "number_suffix": "",
+            "counter_title": "In <br> Country"
+          }
+        },
+        "counter_details_tkXiDc": {
+          "type": "counter_details",
+          "settings": {
+            "counter_number": "98",
+            "number_suffix": "%",
+            "counter_title": "Happy  Customer"
+          }
+        }
+      },
+      "block_order": [
+        "counter_details_EGATzt",
+        "counter_details_fT6QQi",
+        "counter_details_rWbMTE",
+        "counter_details_tkXiDc"
+      ],
+      "name": "Counter Section",
+      "settings": {}
+    },
+    "team_Q8RTbw": {
+      "type": "team",
+      "blocks": {
+        "team_members_Cknndj": {
+          "type": "team_members",
+          "settings": {
+            "member_image": "shopify://shop_images/team-1.jpg",
+            "member_name": "John Smith",
+            "member_role": "Fashion Design"
+          }
+        },
+        "team_members_NqzbBy": {
+          "type": "team_members",
+          "settings": {
+            "member_image": "shopify://shop_images/team-2.jpg",
+            "member_name": "Christine Wise",
+            "member_role": "C.E.O"
+          }
+        },
+        "team_members_VeP37J": {
+          "type": "team_members",
+          "settings": {
+            "member_image": "shopify://shop_images/team-3.jpg",
+            "member_name": "Sean Robbins",
+            "member_role": "Manager"
+          }
+        },
+        "team_members_6gKMhn": {
+          "type": "team_members",
+          "settings": {
+            "member_image": "shopify://shop_images/team-4.jpg",
+            "member_name": "Lucy Myers",
+            "member_role": "Delivery"
+          }
+        }
+      },
+      "block_order": [
+        "team_members_Cknndj",
+        "team_members_NqzbBy",
+        "team_members_VeP37J",
+        "team_members_6gKMhn"
+      ],
+      "name": "Team Section",
+      "settings": {
+        "sub_title": "Our Team",
+        "main_title": "Meet Our Team"
+      }
+    },
+    "clients_mhm3Lr": {
+      "type": "clients",
+      "blocks": {
+        "client_details_8zf7ci": {
+          "type": "client_details",
+          "settings": {
+            "client_logo": "shopify://shop_images/client-1.png",
+            "link": "#"
+          }
+        },
+        "client_details_BUCXBM": {
+          "type": "client_details",
+          "settings": {
+            "client_logo": "shopify://shop_images/client-2.png",
+            "link": "#"
+          }
+        },
+        "client_details_zhh3xL": {
+          "type": "client_details",
+          "settings": {
+            "client_logo": "shopify://shop_images/client-3.png",
+            "link": "#"
+          }
+        },
+        "client_details_V4yRLK": {
+          "type": "client_details",
+          "settings": {
+            "client_logo": "shopify://shop_images/client-4.png",
+            "link": "#"
+          }
+        },
+        "client_details_G7ggqw": {
+          "type": "client_details",
+          "settings": {
+            "client_logo": "shopify://shop_images/client-5.png",
+            "link": "#"
+          }
+        },
+        "client_details_GBjMeQ": {
+          "type": "client_details",
+          "settings": {
+            "client_logo": "shopify://shop_images/client-6.png",
+            "link": "#"
+          }
+        },
+        "client_details_bADKMk": {
+          "type": "client_details",
+          "settings": {
+            "client_logo": "shopify://shop_images/client-7.png",
+            "link": "#"
+          }
+        },
+        "client_details_MWPbKM": {
+          "type": "client_details",
+          "settings": {
+            "client_logo": "shopify://shop_images/client-8.png",
+            "link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "client_details_8zf7ci",
+        "client_details_BUCXBM",
+        "client_details_zhh3xL",
+        "client_details_V4yRLK",
+        "client_details_G7ggqw",
+        "client_details_GBjMeQ",
+        "client_details_bADKMk",
+        "client_details_MWPbKM"
+      ],
+      "name": "Our Client Section",
+      "settings": {
+        "sub_title": "Partner",
+        "main_title": "Happy Clients"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "breadcrumbs_YqGHqw",
+    "about_us_Hd7HFh",
+    "testimonial_ywCx6n",
+    "counter_cmR6jn",
+    "team_Q8RTbw",
+    "clients_mhm3Lr"
+  ]
+}
