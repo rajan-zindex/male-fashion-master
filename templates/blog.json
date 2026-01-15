@@ -1,0 +1,31 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "blog_banner_xeFYiF": {
+      "type": "blog-banner",
+      "name": "Blog Banner Section",
+      "settings": {
+        "banner_image": "shopify://shop_images/breadcrumb-bg.jpg",
+        "title": "Our Blog"
+      }
+    },
+    "main": {
+      "type": "blog",
+      "settings": {
+        "articles_per_page": 6
+      }
+    }
+  },
+  "order": [
+    "blog_banner_xeFYiF",
+    "main"
+  ]
+}
